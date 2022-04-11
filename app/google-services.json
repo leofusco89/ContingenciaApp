@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682368019308",
+    "project_id": "contingenciaapp",
+    "storage_bucket": "contingenciaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682368019308:android:8ef0102b4734ef8f77e149",
+        "android_client_info": {
+          "package_name": "com.example.contingenciaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682368019308-9vsca4db31vvl9lu8cgsp19e3brudosn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyoViz6mN0QWPkfNyDswIxYo4Ge3CsqmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682368019308-9vsca4db31vvl9lu8cgsp19e3brudosn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

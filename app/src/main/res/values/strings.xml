@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContingenciaApp</string>
+    <string name="transition_logo">transitionLogo</string>
+    <string name="empty_password">Completar contraseña</string>
+    <string name="empty_username">Completar usuario</string>
+    <string name="complete_data">Completar datos</string>
+    <string name="login_error">Datos incorrectos. Complete datos nuevamente</string>
+    <string name="error_db_connection">Error de conexión con BD. Reinicie aplicación y vuelta a intentar</string>
+</resources>
